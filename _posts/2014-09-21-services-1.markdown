@@ -1,0 +1,9 @@
+---
+layout: default
+img: workspace.jpg
+category: Services
+title: Thanks for your support!
+description: |
+---
+
+After making our home in the Pearl District for 3 & 1/2 years, it's with much regret that we have to announce we've closed our doors once and for all. It's been a great journey. You can still find Christine downtown at Made. Stop by and say hi.

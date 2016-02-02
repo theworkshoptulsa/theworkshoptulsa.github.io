@@ -1,0 +1,31 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://www.theworkshoptulsa.com
+title: The Workshop at Made
+email: thom@theworkshoptulsa.com
+author: Thom Crowe
+description: So long and thanks for all the fish.
+copyright: 'Copyright &copy; 2015 The Workshop. All Rights Reserved.'
+credits: 
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+#social:
+ #- title: twitter
+    #url: https://twitter.com/SBootstrap
+  #- title: github
+    #url: https://github.com/IronSummitMedia/startbootstrap
+  #- title: linkedin
+    #url: 
